@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SmokeTest">
+    <test name="RegisterTest">
+        <classes>
+            <class name="RegisterTest"></class>
+        </classes>
+    </test>
+    <test name="LoginTest">
+        <classes>
+            <class name="LoginTest"></class>
+        </classes>
+    </test>
+</suite>
